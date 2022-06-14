@@ -1,0 +1,32 @@
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.exe
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.deps.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.runtimeconfig.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.runtimeconfig.dev.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\ref\05 Temel Aritmetik Islemler.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.pdb
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.csproj.AssemblyReference.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.AssemblyInfoInputs.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.AssemblyInfo.cs
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.csproj.CoreCompileInputs.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\ref\05 Temel Aritmetik Islemler.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.pdb
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.exe
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.deps.json
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.runtimeconfig.json
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\ref\05 Temel Aritmetik Islemler.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\bin\Debug\net5.0\05 Temel Aritmetik Islemler.pdb
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\ref\05 Temel Aritmetik Islemler.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.pdb
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel Aritmetik Islemler\obj\Debug\net5.0\05 Temel Aritmetik Islemler.genruntimeconfig.cache
